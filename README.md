@@ -58,6 +58,10 @@
 
 ###
 
+###
+
+<h3 align="center">About me</h3>
+
 
 <p align="left">- 🌱 I’m currently learning: **React, nodejs, express**<br><br>- ⚡ Hobbies: **gaming, working out**</p>
 
