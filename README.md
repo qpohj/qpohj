@@ -1,8 +1,12 @@
-<h2 align="center">Yo 👋, I'm Pontus</h2>
+<h2 align="left">Yo 👋, I'm Pontus</h2>
 
 ###
 
-<h3 align="center">A aspiring fullstack developer, from Sweden</h3>
+<h3 align="left">A aspiring fullstack developer, from Sweden </h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/qpohj/qpohj/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -17,7 +21,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pontus-eliasson-b2b963222/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -60,13 +64,13 @@
 
 ###
 
-<h3 align="center">About me</h3>
+<h3 align="left">About me </h3>
 
 
 <p align="left">- 🌱 I’m currently learning: **React, nodejs, express**<br><br>- ⚡ Hobbies: **gaming, working out**</p>
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/1b/45/63/1b456377a9dce67a7dc3630260aa7572.gif"  />
+<img align="center" height="700" src="https://i.pinimg.com/originals/1b/45/63/1b456377a9dce67a7dc3630260aa7572.gif"  />
 
 ###
