@@ -3,24 +3,10 @@
 ###
 
 <h3 align="left">A aspiring fullstack developer, from Sweden </h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/qpohj/qpohj/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=qpohj.qpohj&"  />
 <br>
 
-###
-
-<a href="https://github.com/qpohj/qpohj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qpohj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-</a>
-<a href="https://github.com/qpohj/qpohj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qpohj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</a>
+<img src="https://raw.githubusercontent.com/qpohj/qpohj/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -28,14 +14,6 @@
   <a href="https://www.linkedin.com/in/pontus-eliasson-b2b963222/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/18567085/qpohj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -57,16 +35,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/pontus1a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pontus1a&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
-
 <h3 align="left">About me </h3>
 
 
@@ -74,6 +42,10 @@
 
 ###
 
-<img align="center" height="700" src="https://i.pinimg.com/originals/1b/45/63/1b456377a9dce67a7dc3630260aa7572.gif"  />
+<div align="left">
+  <a href="https://open.spotify.com/user/pontus1a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pontus1a&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
